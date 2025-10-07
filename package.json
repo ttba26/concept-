@@ -1,0 +1,13 @@
+{
+  "name": "monorepo",
+  "private": true,
+  "scripts": {
+    "tokens:build": "node packages/tokens/src/build.js",
+    "build": "pnpm -r build",
+    "dev": "pnpm --filter ./apps/web dev"
+  },
+  "workspaces": [
+    "apps/*",
+    "packages/*"
+  ]
+}
