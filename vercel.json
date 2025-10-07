@@ -1,0 +1,6 @@
+{
+  "version": 2,
+  "framework": "nextjs",
+  "buildCommand": "pnpm -w tokens:build && pnpm -w build",
+  "outputDirectory": "apps/web/.next"
+}
