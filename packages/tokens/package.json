@@ -1,0 +1,11 @@
+{
+  "name": "@your-scope/tokens",
+  "private": true,
+  "main": "src/design-tokens.json",
+  "scripts": {
+    "build": "node src/build.js"
+  },
+  "devDependencies": {
+    "fs-extra": "^11.1.1"
+  }
+}
