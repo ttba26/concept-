@@ -1,0 +1,22 @@
+{
+  "color": {
+    "bg": {
+      "surface": { "value": "#ffffff" }
+    },
+    "text": {
+      "primary": { "value": "#11181C" }
+    },
+    "brand": {
+      "fg": { "value": "#0563F1" }
+    }
+  },
+  "radius": {
+    "lg": { "value": "12px" }
+  },
+  "shadow": {
+    "md": { "value": "0 8px 24px rgba(0,0,0,0.08)" }
+  },
+  "space": {
+    "xl": { "value": "24px" }
+  }
+}
