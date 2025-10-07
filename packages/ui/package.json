@@ -3,7 +3,7 @@
   "private": true,
   "main": "src/index.ts",
   "scripts": {
-    "build": "tsc -p ."
+    "build": "tsc -p tsconfig.json"
   },
   "dependencies": {
     "react": "^18.2.0"
