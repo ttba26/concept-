@@ -1,0 +1,3 @@
+:root { --bg: #fff; --fg: #111; }
+html,body { height: 100%; }
+body { background: var(--bg); color: var(--fg); font-family: system-ui, -apple-system, Segoe UI, Roboto, sans-serif; }
